@@ -1,11 +1,14 @@
-* {
+@import "tailwindcss";
+
+body {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    background-color: #0c0c0c;
+    background-color: #D9E9F5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/*==========================================================*/
+/* 
 .cabecalho-div {
     display: flex;
     flex-direction: row;
@@ -130,4 +133,4 @@ hr:hover {
     .nav-div1 {
         align-items: center;
     }
-}
+} */
