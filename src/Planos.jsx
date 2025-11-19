@@ -11,31 +11,34 @@ function Planos() {
             <h1>Nossos planos</h1>
 
             <section className="planoUm"> 
-                <div className="">
-                    <img src="" alt="" />
-                    <div className="">
-                        <h2></h2>
-                        <p></p>
+                <div className="container">
+                    <img src="#" alt="" />
+                    <div className="sub_container">
+                        <h2>Título do hero1</h2>
+                        <p>Parágrafo</p>
+                        <button>Assinar Freemium</button>
                     </div>
                 </div>
             </section>
 
             <section className="planoDois"> 
-                <div className="">
-                    <img src="" alt="" />
-                    <div className="">
-                        <h2></h2>
-                        <p></p>
+                <div className="container">
+                    <img src="#" alt="" />
+                    <div className="sub_container">
+                        <h2>Título do hero1</h2>
+                        <p>Parágrafo</p>
+                        <button>Assinar Freemium2</button>
                     </div>
                 </div>
             </section>
 
             <section className="planoTres"> 
-                <div className="">
-                    <img src="" alt="" />
-                    <div className="">
-                        <h2></h2>
-                        <p></p>
+                <div className="container">
+                    <img src="#" alt="" />
+                    <div className="sub_container">
+                        <h2>Título do hero1</h2>
+                        <p>Parágrafo</p>
+                        <button>Assinar Freemium3</button>
                     </div>
                 </div>
             </section>
